@@ -1,0 +1,174 @@
+2017-11-27 12:20:59 pid:10590 Workerman[start.php] start in DEBUG mode
+2017-11-27 12:25:46 pid:10676 Workerman[start.php] start in DEBUG mode
+2017-11-27 13:09:16 pid:11388 Workerman[start.php] start in DEBUG mode
+2017-11-27 13:12:55 pid:11388 Workerman[start.php] stopping ...
+2017-11-27 13:12:55 pid:11388 Workerman[start.php] has been stopped
+2017-11-27 13:12:58 pid:11454 Workerman[start.php] start in DEBUG mode
+2017-11-27 13:17:24 pid:11454 Workerman[start.php] stopping ...
+2017-11-27 13:17:24 pid:11454 Workerman[start.php] has been stopped
+2017-11-27 13:18:29 pid:11561 Workerman[start.php] reload 
+2017-11-27 13:18:29 pid:11561 Workerman[start.php] not run
+2017-11-27 13:28:58 pid:11648 Workerman[start.php] reload 
+2017-11-27 13:28:58 pid:11648 Workerman[start.php] not run
+2017-11-27 13:29:02 pid:11649 Workerman[start.php] reload 
+2017-11-27 13:29:02 pid:11649 Workerman[start.php] not run
+2017-11-27 13:29:09 pid:11652 Workerman[start.php] start in DEBUG mode
+2017-11-27 13:57:04 pid:11652 Workerman[start.php] stopping ...
+2017-11-27 13:57:04 pid:11652 Workerman[start.php] has been stopped
+2017-11-27 13:57:07 pid:11954 Workerman[start.php] start in DAEMON mode
+2017-11-28 11:52:38 pid:29469 Workerman[start.php] stop 
+2017-11-28 11:52:38 pid:29469 Workerman[start.php] not run
+2017-11-28 11:52:42 pid:29470 Workerman[start.php] stop 
+2017-11-28 11:52:42 pid:29470 Workerman[start.php] not run
+2017-11-28 11:52:43 pid:29473 Workerman[start.php] stop 
+2017-11-28 11:52:43 pid:29473 Workerman[start.php] not run
+2017-11-28 11:53:08 pid:29478 Workerman[start.php] start in DAEMON mode
+2017-11-28 11:57:52 pid:11959 worker[11959] remains 4 connection(s)
+2017-11-28 11:57:52 pid:11960 worker[11960] remains 4 connection(s)
+2017-11-28 11:57:53 pid:11959 worker[11959] remains 4 connection(s)
+2017-11-28 11:57:53 pid:11960 worker[11960] remains 4 connection(s)
+2017-11-28 11:57:54 pid:11959 worker[11959] remains 4 connection(s)
+2017-11-28 11:57:54 pid:11960 worker[11960] remains 4 connection(s)
+2017-11-28 11:57:55 pid:11960 worker[11960] remains 4 connection(s)
+2017-11-28 11:57:55 pid:11959 worker[11959] remains 4 connection(s)
+2017-11-28 11:57:56 pid:11960 worker[11960] remains 4 connection(s)
+2017-11-28 11:57:56 pid:11959 worker[11959] remains 4 connection(s)
+2017-11-28 11:57:57 pid:11960 worker[11960] remains 4 connection(s)
+2017-11-28 11:57:57 pid:11959 worker[11959] remains 4 connection(s)
+2017-11-28 11:58:04 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:04 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:04 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:04 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:04 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:04 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:05 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:05 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:05 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:05 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:05 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:05 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:06 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:06 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:06 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:06 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:06 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:06 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:07 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:07 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:07 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:07 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:07 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:07 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:08 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:08 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:08 pid:11959 worker[11959] remains 2 connection(s)
+2017-11-28 11:58:08 pid:11960 worker[11960] remains 2 connection(s)
+2017-11-28 11:58:32 pid:29547 Workerman[start.php] start in DAEMON mode
+2017-11-28 12:00:46 pid:29588 Workerman[start.php] reload 
+2017-11-28 12:00:46 pid:29549 Workerman[start.php] reloading
+2017-11-28 12:03:18 pid:29630 Workerman[start.php] reload 
+2017-11-28 12:03:18 pid:29549 Workerman[start.php] reloading
+2017-11-28 12:03:28 pid:29637 Workerman[start.php] stop 
+2017-11-28 12:03:28 pid:29637 Workerman[start.php] is stoping ...
+2017-11-28 12:03:28 pid:29549 Workerman[start.php] stopping ...
+2017-11-28 12:03:28 pid:29556 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-11-28 12:03:28 pid:29549 Workerman[start.php] has been stopped
+2017-11-28 12:03:28 pid:29637 Workerman[start.php] stop success
+2017-11-28 12:03:36 pid:29638 Workerman[start.php] start in DAEMON mode
+2017-11-28 12:05:15 pid:29674 Workerman[start.php] reload 
+2017-11-28 12:05:15 pid:29640 Workerman[start.php] reloading
+2017-11-28 16:48:56 pid:32623 Workerman[start.php] start in DEBUG mode
+2017-11-28 16:48:56 pid:32623 Workerman[start.php] already running
+2017-11-28 16:49:13 pid:32626 Workerman[start.php] reload 
+2017-11-28 16:49:13 pid:29640 Workerman[start.php] reloading
+2017-11-28 16:49:43 pid:32637 Workerman[start.php] stop 
+2017-11-28 16:49:43 pid:32637 Workerman[start.php] is stoping ...
+2017-11-28 16:49:43 pid:29640 Workerman[start.php] stopping ...
+2017-11-28 16:49:43 pid:29646 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-11-28 16:49:44 pid:29640 Workerman[start.php] has been stopped
+2017-11-28 16:49:44 pid:32637 Workerman[start.php] stop success
+2017-11-28 16:49:49 pid:32638 Workerman[start.php] start in DEBUG mode
+2017-11-28 16:49:52 pid:32638 Workerman[start.php] stopping ...
+2017-11-28 16:49:52 pid:32638 Workerman[start.php] has been stopped
+2017-11-28 16:49:59 pid:32648 Workerman[start.php] start in DAEMON mode
+2017-11-28 16:51:49 pid:32674 Workerman[start.php] reload 
+2017-11-28 16:51:49 pid:32650 Workerman[start.php] reloading
+2017-11-28 16:52:28 pid:32650 Workerman[start.php] reloading
+2017-11-28 16:53:03 pid:32655 worker[32655] remains 4 connection(s)
+2017-11-28 16:53:03 pid:32656 worker[32656] remains 4 connection(s)
+2017-11-28 16:53:03 pid:32657 worker[32657] remains 4 connection(s)
+2017-11-28 16:53:03 pid:32658 worker[32658] remains 4 connection(s)
+2017-11-28 16:53:35 pid:32659 worker[32659] remains 6 connection(s)
+2017-11-28 16:53:56 pid:32698 Workerman[start.php] stop 
+2017-11-28 16:53:56 pid:32698 Workerman[start.php] not run
+2017-11-28 16:54:14 pid:32655 worker[32655] remains 2 connection(s)
+2017-11-28 16:54:14 pid:32656 worker[32656] remains 2 connection(s)
+2017-11-28 16:54:14 pid:32657 worker[32657] remains 2 connection(s)
+2017-11-28 16:54:14 pid:32658 worker[32658] remains 2 connection(s)
+2017-11-28 16:55:18 pid:32711 Workerman[start.php] start in DAEMON mode
+2017-11-28 16:56:20 pid:32736 Workerman[start.php] stop 
+2017-11-28 16:56:20 pid:32736 Workerman[start.php] is stoping ...
+2017-11-28 16:56:20 pid:32713 Workerman[start.php] stopping ...
+2017-11-28 16:56:20 pid:32713 Workerman[start.php] has been stopped
+2017-11-28 16:56:20 pid:32736 Workerman[start.php] stop success
+2017-11-28 16:56:22 pid:32739 Workerman[start.php] start in DAEMON mode
+2017-11-28 17:01:17 pid:343 Workerman[start.php] reload 
+2017-11-28 17:01:17 pid:32741 Workerman[start.php] reloading
+2017-11-28 17:04:37 pid:380 Workerman[start.php] stop 
+2017-11-28 17:04:37 pid:380 Workerman[start.php] is stoping ...
+2017-11-28 17:04:37 pid:32741 Workerman[start.php] stopping ...
+2017-11-28 17:04:37 pid:32747 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-11-28 17:04:37 pid:32747 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-11-28 17:04:37 pid:32748 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-11-28 17:04:37 pid:32741 Workerman[start.php] has been stopped
+2017-11-28 17:04:37 pid:380 Workerman[start.php] stop success
+2017-11-28 17:04:56 pid:384 Workerman[start.php] start in DAEMON mode
+2017-11-28 17:07:22 pid:434 Workerman[start.php] stop 
+2017-11-28 17:07:22 pid:434 Workerman[start.php] is stoping ...
+2017-11-28 17:07:22 pid:397 Workerman[start.php] stopping ...
+2017-11-28 17:07:23 pid:397 Workerman[start.php] has been stopped
+2017-11-28 17:07:23 pid:434 Workerman[start.php] stop success
+2017-11-28 17:07:24 pid:435 Workerman[start.php] stop 
+2017-11-28 17:07:24 pid:435 Workerman[start.php] not run
+2017-11-28 17:07:31 pid:438 Workerman[start.php] start in DAEMON mode
+2017-11-28 17:09:00 pid:475 Workerman[start.php] stop 
+2017-11-28 17:09:00 pid:475 Workerman[start.php] is stoping ...
+2017-11-28 17:09:00 pid:440 Workerman[start.php] stopping ...
+2017-11-28 17:09:00 pid:448 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-11-28 17:09:00 pid:440 Workerman[start.php] has been stopped
+2017-11-28 17:09:00 pid:475 Workerman[start.php] stop success
+2017-11-28 17:09:01 pid:476 Workerman[start.php] start in DAEMON mode
+2017-11-30 17:20:16 pid:10781 Workerman[start.php] stop 
+2017-11-30 17:20:16 pid:10781 Workerman[start.php] is stoping ...
+2017-11-30 17:20:16 pid:478 Workerman[start.php] stopping ...
+2017-11-30 17:20:16 pid:478 Workerman[start.php] has been stopped
+2017-11-30 17:20:16 pid:10781 Workerman[start.php] stop success
+2017-11-30 17:34:34 pid:11039 Workerman[start.php] start in DAEMON mode
+2017-11-30 17:39:14 pid:11150 Workerman[start.php] stop 
+2017-11-30 17:39:14 pid:11150 Workerman[start.php] is stoping ...
+2017-11-30 17:39:14 pid:11041 Workerman[start.php] stopping ...
+2017-11-30 17:39:15 pid:11041 Workerman[start.php] has been stopped
+2017-11-30 17:39:15 pid:11150 Workerman[start.php] stop success
+2017-11-30 17:39:21 pid:11154 Workerman[start.php] start in DAEMON mode
+2017-11-30 17:41:56 pid:11225 Workerman[start.php] stop 
+2017-11-30 17:41:56 pid:11225 Workerman[start.php] is stoping ...
+2017-11-30 17:41:56 pid:11156 Workerman[start.php] stopping ...
+2017-11-30 17:41:56 pid:11156 Workerman[start.php] has been stopped
+2017-11-30 17:41:56 pid:11225 Workerman[start.php] stop success
+2017-11-30 17:41:59 pid:11226 Workerman[start.php] start in DAEMON mode
+2017-11-30 17:42:38 pid:11245 Workerman[start.php] start in DAEMON mode
+2017-11-30 18:16:55 pid:11736 Workerman[start.php] reload 
+2017-11-30 18:16:55 pid:11247 Workerman[start.php] reloading
+2017-11-30 18:23:54 pid:11839 Workerman[start.php] reload 
+2017-11-30 18:23:54 pid:11247 Workerman[start.php] reloading
+2017-11-30 18:24:16 pid:11848 Workerman[start.php] stop 
+2017-11-30 18:24:16 pid:11848 Workerman[start.php] is stoping ...
+2017-11-30 18:24:16 pid:11247 Workerman[start.php] stopping ...
+2017-11-30 18:24:16 pid:11255 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3 for detail
+2017-11-30 18:24:16 pid:11247 Workerman[start.php] has been stopped
+2017-11-30 18:24:16 pid:11848 Workerman[start.php] stop success
+2017-11-30 18:24:21 pid:11849 Workerman[start.php] start in DAEMON mode
+2017-11-30 18:24:56 pid:11874 Workerman[start.php] reload 
+2017-11-30 18:24:56 pid:11851 Workerman[start.php] reloading
+2017-11-30 18:27:36 pid:11921 Workerman[start.php] reload 
+2017-11-30 18:27:36 pid:11851 Workerman[start.php] reloading
